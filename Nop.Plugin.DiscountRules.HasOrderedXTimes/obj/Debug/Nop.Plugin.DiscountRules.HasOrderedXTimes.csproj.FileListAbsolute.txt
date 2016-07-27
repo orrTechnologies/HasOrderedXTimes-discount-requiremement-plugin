@@ -1,0 +1,9 @@
+C:\Users\Dylan\Desktop\nop\nopCommerce\src\Presentation\Nop.Web\Plugins\DiscountRules.HasOrderedXTimes\Description.txt
+C:\Users\Dylan\Desktop\nop\nopCommerce\src\Presentation\Nop.Web\Plugins\DiscountRules.HasOrderedXTimes\web.config
+C:\Users\Dylan\Desktop\nop\nopCommerce\src\Presentation\Nop.Web\Plugins\DiscountRules.HasOrderedXTimes\Views\DiscountRulesHasOrderedXTimes\Configure.cshtml
+C:\Users\Dylan\Desktop\nop\nopCommerce\src\Presentation\Nop.Web\Plugins\DiscountRules.HasOrderedXTimes\Nop.Plugin.DiscountRules.HasOrderedXTimes.dll
+C:\Users\Dylan\Desktop\nop\nopCommerce\src\Presentation\Nop.Web\Plugins\DiscountRules.HasOrderedXTimes\Nop.Plugin.DiscountRules.HasOrderedXTimes.pdb
+C:\Users\Dylan\Desktop\nop\nopCommerce\src\Plugins\Nop.Plugin.DiscountRules.HasOrderedXTimes\obj\Debug\Nop.Plugin.DiscountRules.HasOrderedXTimes.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\nop\nopCommerce\src\Plugins\Nop.Plugin.DiscountRules.HasOrderedXTimes\obj\Debug\Nop.Plugin.DiscountRules.HasOrderedXTimes.dll
+C:\Users\Dylan\Desktop\nop\nopCommerce\src\Plugins\Nop.Plugin.DiscountRules.HasOrderedXTimes\obj\Debug\Nop.Plugin.DiscountRules.HasOrderedXTimes.pdb
+C:\Users\Dylan\Desktop\nop\nopCommerce\src\Presentation\Nop.Web\Plugins\DiscountRules.HasOrderedXTimes\logo.jpg

@@ -1,0 +1,20 @@
+<<<<<<< d946c432e06962e63f876580038b87d691dfd136
+﻿Group: Discount requirements
+FriendlyName: Customer has ordered X Times
+SystemName: DiscountRequirement.MustHaveOrderCount
+Version: 1.01
+SupportedVersions: 3.80
+Author: Dylan Orr
+DisplayOrder: 1
+FileName: Nop.Plugin.DiscountRules.HasOrderedXTimes.dll
+=======
+﻿Group: Discount requirements
+FriendlyName: Customer has ordered X Times
+SystemName: DiscountRequirement.HasOrderedXTimes
+Version: 1.00
+SupportedVersions: 3.80
+Author: Dylan Orr
+DisplayOrder: 1
+FileName: Nop.Plugin.DiscountRules.HasOrderedXTimes.dll
+>>>>>>> Initial commit
+Description: This plugin allows you to configure discounts for customers who have ordered X Times
